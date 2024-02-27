@@ -2,7 +2,7 @@
 <br/>
 👀 I’m interested in improving my coding skills and contributing to meaningful projects.
 <br/>
-🌱 I’m currently learning advanced data structures and algorithms to level up my problem-solving abilities.
+🌱 I’m currently learning data structures and algorithms to level up my problem-solving abilities.
 <br/>
 💞️ I’m looking to collaborate on open-source projects related to web development and machine learning.
 <br/>
